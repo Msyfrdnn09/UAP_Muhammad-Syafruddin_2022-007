@@ -1052,11 +1052,12 @@ history = model.fit(
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Msyfrdnn09.png" width="100px;" alt=""/>
+      <img src="<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/61b61752-dc11-4c1a-b442-6ee5bbf81699" />
+" width="100px;" alt=""/>
       <br />
       <sub><b>Muhammad Syafruddin</b></sub>
       <br />
-      <sub>NIM: 2022-007</sub>
+      <sub>NIM: 202210370311007</sub>
     </td>
   </tr>
 </table>
