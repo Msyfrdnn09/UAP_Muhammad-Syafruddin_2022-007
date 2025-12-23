@@ -565,21 +565,6 @@ ResNet50
 - **GitHub**: [@Msyfrdnn09](https://github.com/Msyfrdnn09)
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 Muhammad Syafruddin
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
----
 
 ## 🙏 Acknowledgments
 
