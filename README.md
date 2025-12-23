@@ -1062,9 +1062,9 @@ history = model.fit(
 </table>
 
 ### Informasi Kontak:
-- **Email**: [msyfrdnn09@webmail.umm.ac.id]
-- **Program Studi**: [Informatika]
-- **Universitas**: [Universitas Muhammadiyah Malang]
+- **Email**: msyfrdnn09@webmail.umm.ac.id
+- **Program Studi**: Informatika
+- **Universitas**: Universitas Muhammadiyah Malang
 - **GitHub**: [@Msyfrdnn09](https://github.com/Msyfrdnn09)
 ---
 
@@ -1086,7 +1086,7 @@ in the Software without restriction...
 
 ## 🙏 Acknowledgments
 
-- Dataset dari **[Kaggel (https://www.kaggle.com/datasets/manonstr/tipe-webscraping?resource=download-directory)]**
+- Dataset dari **https://www.kaggle.com/datasets/manonstr/tipe-webscraping?resource=download-directory**
 - Inspirasi arsitektur dari paper-paper terkait
 - Komunitas Stack Overflow dan GitHub
 - Universitas **[Universitas Muhammadiyah Malang]**
