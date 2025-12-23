@@ -1052,7 +1052,7 @@ history = model.fit(
 <table>
   <tr>
     <td align="center">
-     <img width="276" height="374" alt="image" src="https://github.com/user-attachments/assets/a104a5f3-acca-4181-805b-d81faa7c3bd6" 
+      <img src="https://github.com/user-attachments/assets/a104a5f3-acca-4181-805b-d81faa7c3bd6" width="150px;" alt="Muhammad Syafruddin"/>
       <br />
       <sub><b>Muhammad Syafruddin</b></sub>
       <br />
@@ -1062,9 +1062,10 @@ history = model.fit(
 </table>
 
 ### Informasi Kontak:
-- **Email**: [msyfrdnn09@webmail.umm.ac.id]
+- **Email**: [email Anda]
+- **Program Studi**: [Nama Prodi]
+- **Universitas**: [Nama Universitas]
 - **GitHub**: [@Msyfrdnn09](https://github.com/Msyfrdnn09)
-
 ---
 
 ## 📝 License
