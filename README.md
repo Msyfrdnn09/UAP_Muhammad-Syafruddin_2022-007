@@ -1104,9 +1104,10 @@ Jika Anda menemukan bug atau memiliki saran, silakan:
 
 <div align="center">
   
-### ⭐ Jika project ini membantu, jangan lupa beri Star! ⭐
+### ⭐Ujian Akhir Praktikum ! ⭐
 
 **Made with ❤️ by Muhammad Syafruddin**
+**Nim    : 202210370111007**
 
 [⬆ Back to Top](#-garbage-classification-dashboard)
 
