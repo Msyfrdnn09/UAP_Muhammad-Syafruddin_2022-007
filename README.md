@@ -10,7 +10,7 @@
 
 ## 📋 Daftar Isi
 1. [Deskripsi Proyek](#-deskripsi-proyek)
-2. [Dataset dan Preprocessing](#-dataset-dan-preprocessing)
+2. [Dataset](#-dataset)
 3. [Model yang Digunakan](#-model-yang-digunakan)
 4. [Hasil Evaluasi dan Analisis](#-hasil-evaluasi-dan-analisis)
 5. [Struktur Proyek](#-struktur-proyek)
@@ -38,7 +38,7 @@ Project **Garbage Classification Dashboard** adalah sistem klasifikasi gambar sa
 
 ---
 
-## 📊 Dataset dan Preprocessing
+## 📊 Dataset
 
 ### Sumber Dataset
 - **Nama Dataset**: Garbage Classification Dataset
@@ -64,37 +64,6 @@ Project **Garbage Classification Dashboard** adalah sistem klasifikasi gambar sa
 - ⚠️ **Small test set**: 157 samples total
 - ⚠️ Impact: Model bias toward majority classes (paper, plastic, glass)
 
-### Preprocessing Data
-
-#### 1. **Image Augmentation**
-Untuk meningkatkan variasi data training dan mengurangi overfitting:
-```python
-ImageDataGenerator(
-    rescale=1./255,
-    rotation_range=20,
-    width_shift_range=0.2,
-    height_shift_range=0.2,
-    shear_range=0.2,
-    zoom_range=0.2,
-    horizontal_flip=True,
-    fill_mode='nearest'
-)
-```
-
-#### 2. **Image Resizing**
-- **Ukuran Input**: 224x224 pixels (sesuai standar ImageNet)
-- **Format**: RGB (3 channels)
-
-#### 3. **Normalisasi**
-- Pixel values dinormalisasi ke range [0, 1] dengan membagi 255
-- Membantu mempercepat konvergensi model
-
-#### 4. **Split Data**
-- **Training Set**: 70% (untuk training model)
-- **Validation Set**: 15% (untuk validasi selama training)
-- **Test Set**: 15% (untuk evaluasi final)
-
----
 
 ## 🤖 Model yang Digunakan
 
