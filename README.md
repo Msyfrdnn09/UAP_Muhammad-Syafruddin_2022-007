@@ -1,4 +1,3 @@
-# UAP_Muhammad-Syafruddin_2022-007
 # 🗑️ GARBAGE CLASSIFICATION DASHBOARD
 ### UAP Pembelajaran Mesin - Muhammad Syafruddin (2022-007)
 
