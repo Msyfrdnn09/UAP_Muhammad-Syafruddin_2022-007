@@ -1062,9 +1062,9 @@ history = model.fit(
 </table>
 
 ### Informasi Kontak:
-- **Email**: [email Anda]
-- **Program Studi**: [Nama Prodi]
-- **Universitas**: [Nama Universitas]
+- **Email**: [msyfrdnn09@webmail.umm.ac.id]
+- **Program Studi**: [Informatika]
+- **Universitas**: [Universitas Muhammadiyah Malang]
 - **GitHub**: [@Msyfrdnn09](https://github.com/Msyfrdnn09)
 ---
 
