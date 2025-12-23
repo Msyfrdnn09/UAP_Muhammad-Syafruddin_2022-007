@@ -1,0 +1,17 @@
+{
+    "img_size": [
+        224,
+        224
+    ],
+    "rescale": 0.00392156862745098,
+    "num_classes": 6,
+    "batch_size": 32,
+    "class_names": [
+        "carton",
+        "glass",
+        "metal",
+        "paper",
+        "plastic",
+        "trash"
+    ]
+}
