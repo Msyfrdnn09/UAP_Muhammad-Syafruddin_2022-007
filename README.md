@@ -418,78 +418,29 @@ Frozen layers terlalu rigid untuk domain garbage
 ## 📁 Struktur Proyek
 
 ```
-UAP_Muhammad-Syafruddin_2022-007/
-│
-├── 📂 data/
-│   ├── 📂 garbage_classification/    # Dataset utama
-│   │   ├── cardboard/
-│   │   ├── glass/
-│   │   ├── metal/
-│   │   ├── paper/
-│   │   ├── plastic/
-│   │   └── trash/
-│   └── 📂 test_images/               # Sample images untuk testing
-│
+image_classification_dashboard/
 ├── 📂 models/
 │   ├── cnn_base_model.keras          # CNN Base Model (24.84% acc)
 │   ├── mobilenet_model.keras         # MobileNetV2 (63.06% acc) ⭐ BEST
-│   ├── resnet50_model.keras          # ResNet50 (29.94% acc)
-│   └── 📂 training_history/          # Training logs dan plots
-│       ├── cnn_history.png
-│       ├── mobilenet_history.png
-│       └── resnet_history.png
+│   └─── resnet50_model.keras          # ResNet50 (29.94% acc)
 │
-├── 📂 notebooks/
-│   └── UAP.ipynb                     # Main training notebook
-│       ├── Data Loading & EDA
-│       ├── Data Preprocessing & Augmentation
-│       ├── Model Training (3 models)
-│       ├── Evaluation & Comparison
-│       └── Visualization
+├── 📂 history/          
+│   ├── cnn_history.png
+│   ├── mobilenet_history.png
+│   └── resnet_history.png
 │
-├── 📂 streamlit_app/
-│   ├── app.py                        # Main Streamlit application
-│   ├── 📂 pages/
-│   │   ├── 1_🏠_Home.py              # Home page
-│   │   ├── 2_🔮_Prediction.py        # Image upload & prediction
-│   │   ├── 3_📊_Model_Comparison.py  # Compare 3 models
-│   │   └── 4_ℹ️_About.py             # About project
-│   └── 📂 utils/
-│       ├── model_loader.py           # Load trained models
-│       ├── image_processor.py        # Image preprocessing
-│       └── visualization.py          # Plot confusion matrix, etc.
 │
-├── 📂 src/                           # Source code modules
-│   ├── __init__.py
-│   ├── config.py                     # Configuration & constants
-│   ├── data_loader.py                # Dataset loading utilities
-│   ├── preprocessing.py              # Image preprocessing functions
-│   └── evaluator.py                  # Model evaluation functions
+├── 📂 utils/
+│   └── image_predictor.py        
 │
-├── 📂 static/
-│   ├── 📂 images/                    # Images for README
-│   │   ├── banner.png
-│   │   ├── screenshot_home.png
-│   │   ├── screenshot_prediction.png
-│   │   ├── confusion_matrix_mobilenet.png
-│   │   └── model_comparison.png
-│   └── 📂 css/                       # Custom styling
-│       └── style.css
-│
-├── 📂 results/                       # Evaluation results
-│   ├── classification_reports.json   # All models metrics
-│   ├── confusion_matrices.png        # Confusion matrix plots
-│   └── comparison_table.csv          # Model comparison table
-│
-├── 📂 tests/                         # Unit tests (optional)
-│   ├── test_preprocessing.py
-│   └── test_models.py
+├── 📂 reports/                 
+│   ├── model_comparison.csv
+│   ├── report_cnn.json
+│   ├── report_mobilenet.json
+│   └── report_resnet.json
 │
 ├── 📄 requirements.txt               # Python dependencies
-├── 📄 README.md                      # Documentation (file ini)
-├── 📄 .gitignore                     # Git ignore rules
-├── 📄 LICENSE                        # MIT License
-└── 📄 setup.py                       # Package setup (optional)
+└── 📄 app.py                       
 ```
 
 ### File Descriptions:
