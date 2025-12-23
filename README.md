@@ -1062,9 +1062,8 @@ history = model.fit(
 </table>
 
 ### Informasi Kontak:
-- **Email**: [email Anda]
+- **Email**: [msyfrdnn09@webmail.umm.ac.id]
 - **GitHub**: [@Msyfrdnn09](https://github.com/Msyfrdnn09)
-- **LinkedIn**: [Your LinkedIn]
 
 ---
 
@@ -1086,11 +1085,10 @@ in the Software without restriction...
 
 ## 🙏 Acknowledgments
 
-- Terima kasih kepada **[Nama Dosen]** sebagai dosen pembimbing
-- Dataset dari **[Sumber Dataset]**
+- Dataset dari **[Kaggel (https://www.kaggle.com/datasets/manonstr/tipe-webscraping?resource=download-directory)]**
 - Inspirasi arsitektur dari paper-paper terkait
 - Komunitas Stack Overflow dan GitHub
-- Universitas **[Nama Universitas]**
+- Universitas **[Universitas Muhammadiyah Malang]**
 
 ---
 
@@ -1107,7 +1105,7 @@ Jika Anda menemukan bug atau memiliki saran, silakan:
 ### ⭐Ujian Akhir Praktikum ! ⭐
 
 **Made with ❤️ by Muhammad Syafruddin**
-**Nim    : 202210370111007**
+
 
 [⬆ Back to Top](#-garbage-classification-dashboard)
 
