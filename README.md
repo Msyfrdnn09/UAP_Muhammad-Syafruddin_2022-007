@@ -795,7 +795,8 @@ ResNet50
 
 ### 3. Model Comparison
 <img width="981" height="374" alt="image" src="https://github.com/user-attachments/assets/089117e6-a51f-48a4-ba70-eb73a18cd5fb" />
-
+<img width="990" height="374" alt="image" src="https://github.com/user-attachments/assets/ab78d6da-1df7-48de-a691-0dacd367e19f" />
+<img width="990" height="374" alt="image" src="https://github.com/user-attachments/assets/85001dca-1d08-486b-a9bd-331729833c5a" />
 *Perbandingan performa ketiga model*
 
 ### 4. Confusion Matrix
