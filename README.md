@@ -1052,7 +1052,8 @@ history = model.fit(
 <table>
   <tr>
     <td align="center">
-      <img src="<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/61b61752-dc11-4c1a-b442-6ee5bbf81699" />
+      <img src="<img width="552" height="748" alt="image" src="https://github.com/user-attachments/assets/2d15007f-a9a3-4f3a-9e41-1b1d66346095" />
+
 " width="100px;" alt=""/>
       <br />
       <sub><b>Muhammad Syafruddin</b></sub>
