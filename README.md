@@ -13,11 +13,9 @@
 2. [Dataset dan Preprocessing](#-dataset-dan-preprocessing)
 3. [Model yang Digunakan](#-model-yang-digunakan)
 4. [Hasil Evaluasi dan Analisis](#-hasil-evaluasi-dan-analisis)
-5. [Panduan Instalasi](#-panduan-instalasi)
-6. [Cara Menjalankan Sistem](#-cara-menjalankan-sistem)
-7. [Struktur Proyek](#-struktur-proyek)
-8. [Screenshot Aplikasi](#-screenshot-aplikasi)
-9. [Kontributor](#-kontributor)
+5. [Struktur Proyek](#-struktur-proyek)
+6. [Screenshot Aplikasi](#-screenshot-aplikasi)
+7. [Kontributor](#-kontributor)
 
 ---
 
