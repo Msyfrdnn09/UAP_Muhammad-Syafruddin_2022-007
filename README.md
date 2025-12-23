@@ -781,20 +781,25 @@ Total: 157 test images
 ## 📸 Screenshot Aplikasi
 
 ### 1. Home Page
-![Home Page](static/images/screenshot_home.png)
-*Dashboard overview dengan statistik model*
+<img width="1913" height="917" alt="image" src="https://github.com/user-attachments/assets/025a196a-d867-4211-9d42-f67ca4d04ab9" />
 
 ### 2. Prediction Page
-![Prediction](static/images/screenshot_prediction.png)
-*Interface untuk upload dan prediksi gambar*
+MobileNetV2
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/f14fb90c-34bf-42a0-b437-713246832452" />
+CNN base
+<img width="1915" height="914" alt="image" src="https://github.com/user-attachments/assets/5ff889cd-6c94-486e-a74f-0cf9759b84b4" />
+ResNet50
+<img width="1911" height="910" alt="image" src="https://github.com/user-attachments/assets/99e68932-bc7a-470e-8f36-b93c1a5dec13" />
+
+
 
 ### 3. Model Comparison
-![Comparison](static/images/screenshot_comparison.png)
+<img width="981" height="374" alt="image" src="https://github.com/user-attachments/assets/089117e6-a51f-48a4-ba70-eb73a18cd5fb" />
+
 *Perbandingan performa ketiga model*
 
 ### 4. Confusion Matrix
-![Confusion Matrix](static/images/confusion_matrix.png)
-*Visualisasi confusion matrix*
+<img width="508" height="547" alt="image" src="https://github.com/user-attachments/assets/e91442b5-a625-4261-81cf-24a1e89c1eef" />
 
 ---
 
